@@ -1,0 +1,13 @@
+React important topic
+
+React router
+pure functions         
+state and prop            | learned
+higher order Components   | learned 
+life cycle methods        | learned
+redux/redux-saga
+api sorce   
+function/class component  | learned 
+hooks                     | learned
+Ref in react              | learned
+useRef                    | learned

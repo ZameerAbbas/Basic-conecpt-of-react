@@ -1,0 +1,5 @@
+with hooks we can use class compnent features in funcational compnent such as
+state, lifecycle, pure compnent etc
+use is use with hooks
+
+usestate is use to set data or change the data
